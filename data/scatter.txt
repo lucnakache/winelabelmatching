@@ -1,0 +1,10 @@
+couple	asize1	asize2	bsize1	bsize2	apix	bpix	pixel_total	keypoints	type
+chateauneufpape01-seglamargaux01	428	461	276	380	197308	104880	302188	12	différent
+romanee02-romanee04	508	446	842	742	226568	624764	851332	494	identique
+chateaudarche02-chateaudarche03	460	504	117	126	231840	14742	246582	20	similaire
+chateaudarche02-chateaudarche01	460	504	444	516	231840	229104	460944	69	similaire
+petrus01-petrus02	117	245	141	248	28665	34968	63633	47	identique
+petrus03-romanee04	283	468	842	742	132444	624764	757208	4	différent
+chateaulatour01-chateaulatour02	618	1005	428	556	621090	237968	859058	101	similaire
+chateauyquem01-chateauyquem02	96	96	98	119	9216	11662	20878	0	similaire
+chateauyquem03-chateauyquem05	542	660	407	369	357720	150183	507903	38	similaire
